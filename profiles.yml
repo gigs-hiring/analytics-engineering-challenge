@@ -1,0 +1,6 @@
+gigs_analytics_challenge:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: gigs.duckdb
