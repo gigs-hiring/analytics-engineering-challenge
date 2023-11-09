@@ -14,6 +14,10 @@ Now, imagine you've become a part of the Data Team at Gigs. The Finance Team has
 - **Plan events**: Contains data related to various mobile phone plan events.
 - **Projects**: A customer of Gigs can create multiple projects (e.g. dev, test, prod). However, for this exercise you can assume each customer only has one project.
 
+If you need to make trade-offs, shortcuts or make some assumptions please feel free to do so and document those. 
+
+- 
+
 ## Getting started
 This repository contains a basic dbt project along with sample data (see the `seeds` folder) for you to get started. This challenge should
 mainly be solved with dbt. In the instructions below, we show you how to get started with the dbt project using duckdb, though you
