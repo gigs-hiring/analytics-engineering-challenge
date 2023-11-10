@@ -16,7 +16,6 @@ Now, imagine you've become a part of the Data Team at Gigs. The Finance Team has
 
 If you need to make trade-offs, shortcuts or make some assumptions please feel free to do so and document those. 
 
-- 
 
 ## Getting started
 This repository contains a basic dbt project along with sample data (see the `seeds` folder) for you to get started. This challenge should
