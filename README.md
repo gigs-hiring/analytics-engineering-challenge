@@ -1,5 +1,7 @@
 # Gigs Analytics Engineering Challenge
-As part of the interview process we are looking to assess your data modelling skills. We are keen to understand how you tackle the following challenge. The work should be timeboxed to around 3-4 hours, we expect to be able to run your code/transformations ourselves. Any supporting documents/diagrams can be shared as part of your solution as well.
+As part of the interview process we are looking to assess your data modelling skills. Hence, we ask you to do two things:
+1. Solve the challenge below. The work should be timeboxed to around 4 hours.
+2. Create a short document, explaining how you solved the challenge and how the structure that you picked for your dbt project is able to scale for a fast growing startup.
 
 ## Problem statement
 **Disclaimer: The challenge we are posing here is similar to a real-life scenario the Gigs data team had to solve previously. We are keen to see how you think about that problem.**
